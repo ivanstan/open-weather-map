@@ -1,7 +1,7 @@
 #Introduction
 
 Online service [openweathermap.org](https://openweathermap.org/) provides
-retrial of weather reports all around the globe. This unofficial API written
+retrival of weather reports all around the globe. This unofficial API written
 in ECMA6 provides a way of accessing it, removes ambiguity and easier
 conversion of units by using introducing [math.js](http://mathjs.org/index.html)
 as a dependency.
